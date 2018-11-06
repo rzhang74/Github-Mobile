@@ -1,6 +1,6 @@
 # Github-Mobile
 
-An ios version of Github
+An ios version of Github(Swift 4.2)
 
 It is a tab bar app designed for people to conveniently access their Github account instead of doing so on computer or on webpage.
 
